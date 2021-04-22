@@ -1,0 +1,4 @@
+Message[302] D:\EZE\SISTEMAS EMBEBIDOS\PROYECTOS MPLAB\TP3\TP3-PARTE2.ASM 5 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\EZE\SISTEMAS EMBEBIDOS\PROYECTOS MPLAB\TP3\TP3-PARTE2.ASM 7 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\EZE\SISTEMAS EMBEBIDOS\PROYECTOS MPLAB\TP3\TP3-PARTE2.ASM 8 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\EZE\SISTEMAS EMBEBIDOS\PROYECTOS MPLAB\TP3\TP3-PARTE2.ASM 25 : Found directive in column 1. (END)

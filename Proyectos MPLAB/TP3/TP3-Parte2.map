@@ -1,0 +1,35 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Tue Apr 20 11:11:21 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000022
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000010      
+            17 out of 1094 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     LOOP   0x000007    program     static D:\Eze\Sistemas Embebidos\Proyectos MPLAB\TP3\TP3-Parte2.asm
+                  PRENDER   0x00000c    program     static D:\Eze\Sistemas Embebidos\Proyectos MPLAB\TP3\TP3-Parte2.asm
+                    SETUP   0x000000    program     static D:\Eze\Sistemas Embebidos\Proyectos MPLAB\TP3\TP3-Parte2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    SETUP   0x000000    program     static D:\Eze\Sistemas Embebidos\Proyectos MPLAB\TP3\TP3-Parte2.asm
+                     LOOP   0x000007    program     static D:\Eze\Sistemas Embebidos\Proyectos MPLAB\TP3\TP3-Parte2.asm
+                  PRENDER   0x00000c    program     static D:\Eze\Sistemas Embebidos\Proyectos MPLAB\TP3\TP3-Parte2.asm
+
+
