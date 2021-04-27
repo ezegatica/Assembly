@@ -1,0 +1,39 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Tue Apr 27 10:21:43 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000026
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000012      
+            19 out of 1094 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  ESPERAR   0x000010    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+              INCREMENTAR   0x00000d    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+                     LOOP   0x00000a    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+                     MAIN   0x000007    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+                    SETUP   0x000000    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    SETUP   0x000000    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+                     MAIN   0x000007    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+                     LOOP   0x00000a    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+              INCREMENTAR   0x00000d    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+                  ESPERAR   0x000010    program     static C:\Users\usuario\Documents\GitHub\tps-embebidos\Proyectos MPLAB\TP INTEGRADOR\TPintegrador.asm
+
+
