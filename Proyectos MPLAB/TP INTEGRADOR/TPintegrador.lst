@@ -1,4 +1,4 @@
-MPASM  5.50                  TPINTEGRADOR.ASM   4-27-2021  10:21:42         PAGE  1
+MPASM  5.50                  TPINTEGRADOR.ASM   5-11-2021  10:24:05         PAGE  1
 
 
 LOC  OBJECT CODE     LINE SOURCE TEXT
@@ -44,7 +44,7 @@ Message[302]: Register in operand not in bank 0.  Ensure that bank bits are corr
 000D                  00024 INCREMENTAR
 Message[305]: Using default destination of 1 (file).
 000D   0AA0           00025     INCF CONTADOR
-000E   0820           00026     MOVF CONTADOR, 0
+000E   0820           00026     MOVFW CONTADOR
 000F   0085           00027     MOVWF PORTA
 Warning[207]: Found label after column 1. (ESPERAR)
 0010                  00028     ESPERAR
@@ -54,7 +54,7 @@ Warning[207]: Found label after column 1. (ESPERAR)
                       00032 
 Warning[205]: Found directive in column 1. (END)
                       00033 END
-MPASM  5.50                  TPINTEGRADOR.ASM   4-27-2021  10:21:42         PAGE  2
+MPASM  5.50                  TPINTEGRADOR.ASM   5-11-2021  10:24:05         PAGE  2
 
 
 SYMBOL TABLE
@@ -113,7 +113,7 @@ RD                                00000000
 RP0                               00000005
 RP1                               00000006
 SETUP                             00000000
-MPASM  5.50                  TPINTEGRADOR.ASM   4-27-2021  10:21:42         PAGE  3
+MPASM  5.50                  TPINTEGRADOR.ASM   5-11-2021  10:24:05         PAGE  3
 
 
 SYMBOL TABLE
@@ -171,7 +171,7 @@ _WDT_ON                           00003FFF
 _XT_OSC                           00003FFD
 __16F84A                          00000001
 __DEBUG                           1
-MPASM  5.50                  TPINTEGRADOR.ASM   4-27-2021  10:21:42         PAGE  4
+MPASM  5.50                  TPINTEGRADOR.ASM   5-11-2021  10:24:05         PAGE  4
 
 
 MEMORY USAGE MAP ('X' = Used,  '-' = Unused)

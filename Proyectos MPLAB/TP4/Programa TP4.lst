@@ -1,4 +1,4 @@
-MPASM  5.50                  PROGRAMA TP4.ASM   4-22-2021  14:37:44         PAGE  1
+MPASM  5.50                  PROGRAMA TP4.ASM   5-11-2021  9:30:48         PAGE  1
 
 
 LOC  OBJECT CODE     LINE SOURCE TEXT
@@ -45,7 +45,7 @@ Warning[207]: Found label after column 1. (ESPERAR)
                       00026 
 Warning[205]: Found directive in column 1. (END)
                       00027 END
-MPASM  5.50                  PROGRAMA TP4.ASM   4-22-2021  14:37:44         PAGE  2
+MPASM  5.50                  PROGRAMA TP4.ASM   5-11-2021  9:30:48         PAGE  2
 
 
 SYMBOL TABLE
@@ -104,7 +104,7 @@ RD                                00000000
 RP0                               00000005
 RP1                               00000006
 SETUP                             00000000
-MPASM  5.50                  PROGRAMA TP4.ASM   4-22-2021  14:37:44         PAGE  3
+MPASM  5.50                  PROGRAMA TP4.ASM   5-11-2021  9:30:48         PAGE  3
 
 
 SYMBOL TABLE
@@ -162,7 +162,7 @@ _WDT_ON                           00003FFF
 _XT_OSC                           00003FFD
 __16F84A                          00000001
 __DEBUG                           1
-MPASM  5.50                  PROGRAMA TP4.ASM   4-22-2021  14:37:44         PAGE  4
+MPASM  5.50                  PROGRAMA TP4.ASM   5-11-2021  9:30:48         PAGE  4
 
 
 MEMORY USAGE MAP ('X' = Used,  '-' = Unused)
